@@ -1,0 +1,379 @@
+@keyframes slider {
+    from {
+        position: absolute;
+        top: 340px;
+        left: 250px;
+    }
+    to {
+        position: absolute;
+        top: 340px;
+        left: 980px;
+    }
+
+}
+body {
+    margin: 0px;
+    margin-top: -20px;
+    background: whitesmoke;
+     
+   
+}
+div {
+    background: url(/images/wallpapersden.jpg);
+    background-size: cover;
+    width: 1280px;
+    height: 250px;
+    
+}
+div:hover {
+    background: url(/images/wallpapersden.jpg);
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(255, 255, 255, 0.563);
+    margin-left: 10px;
+    position: relative;
+    top: 20px;
+    
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 30px;
+    margin-left: 10px;
+    position: relative;
+    top: 30px;
+    left: 330px;
+}
+h4 {
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.582);
+    position: relative;
+    left: 380px;
+    width: 500px;
+}
+#p1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+    left: 360px;
+}
+#p2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    left: 280px;
+}
+.nav {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.563);
+    position: relative;
+    left: 680px;
+    margin: 2px;
+}
+.nav:hover {
+    margin: 0px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.466);
+}
+#btn1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(5, 177, 148);
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 470px;
+    width: 250px;
+    height: 45px;
+    border: none;
+    border-radius: 20px;
+}
+#btn1:active {
+    color: rgb(5, 177, 148);
+    background: white;
+}
+select {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.563);
+    position: relative;
+    margin: 2px;
+}
+option {
+    color: black;
+    font-size: small;
+}
+#div2 {
+    background: rgba(0, 0, 0, 0);
+    height: 50px;
+    width: 1200px;
+    margin-left: 40px;
+    margin-top: -25px;
+    border-radius: 25px;
+    
+    
+}
+#div3 {
+    background: rgba(0, 0, 0, 0);
+    height: 700px;
+    width: 1200px;
+    margin-left: 40px;
+    margin-top: 25px;
+    border-radius: 15px;
+    text-align: center;
+}
+#div4 {
+    margin-top: 50px;
+    background: rgb(5, 177, 148);
+    width: 1280px;
+    height: 300px;
+}
+.nav2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: none;
+    border: none;
+    color: rgb(6, 100, 84);
+    position: relative;
+    left: 180px;
+    top: 10px;
+    margin: 5px;
+    
+}
+.nav2:hover {
+    margin: 0px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.466);
+    
+}
+.nav2:active {
+    color: black;
+  
+}
+.nav3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: none;
+    border: none;
+    color: rgb(6, 100, 84);
+    
+}
+.nav3:hover {
+    margin: 0px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.466);
+}
+.nav3:active {
+    color: black;
+}
+#under {
+    width: 60px;
+    height: 10px;
+    background: rgb(5, 177, 148);
+    border-radius: 10px;
+    position: absolute;
+    top: 340px;
+    left: 250px;
+
+}
+.slider {
+    animation-name: slider;
+    animation-duration:15s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-delay: 0.1s;
+    
+}
+video {
+    margin: 5px;
+    height: 340px;
+    border-radius: 10px;
+
+}
+input {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;
+    width: 700px;
+    height: 40px;
+    margin-left: 240px;
+    border-radius: 15px;
+    border: none;
+    background: rgba(0, 0, 0, 0.171);
+}
+#searchbtn {
+    width: 100px;
+    height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(5, 177, 148);
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
+#search:active {
+    color: rgb(5, 177, 148);
+    background: white;
+}
+#heading3 {
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.582);
+    margin-left: -40px;
+}
+.nav4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 30px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    left: 150px; 
+}
+.nav4:hover {
+    border: 1px solid;
+    margin-top: 0px;
+}
+#nav5 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    border: none;
+    position: relative;
+    top: 40px;
+    left: -745px;
+}
+#nav6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: -22px;
+    left: 390px; 
+}
+#nav7 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: -22px;
+    left: 393px; 
+}
+#nav8 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: -22px;
+    left: 395px; 
+}
+#nav9 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: 20px;
+    left: -578px;    
+}
+#nav10 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: 20px;
+    left: -578px;   
+}
+#nav11 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    left: 640px;
+    top: -40px;
+}
+#nav12 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    left: 640px;
+    top: -40px;
+}
+hr {
+    margin-top: 30px;
+    background: black;
+    width: 900px;
+}
+#follow {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: rgb(5, 177, 148);
+    color: black;
+    margin-top: 20px;
+    margin: 20px;
+    width: 200px;
+    border: none;
+    position: relative;
+    top: 35px;
+    left: -380px;
+}
+img {
+    width:30px;
+    height:30px;
+    position: relative;
+    top: 40px;
+    left: -450px;
+}
+#p3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}

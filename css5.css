@@ -1,0 +1,94 @@
+body {
+    background: url(/images/a-sunset-over-a-valley.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+div {
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.19);
+    width: 400px;
+    height: 450px;
+    background: rgba(0, 0, 0, 0.139);
+    margin-top: 80px;
+    border-radius: 20px;
+    position: relative;
+    left: 430px
+}
+div:hover {
+
+    
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    color: purple;
+}
+h3 {
+    color: rgb(68, 18, 114);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+    
+    
+}
+#input1 {
+    background: rgba(0, 0, 0, 0.19);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    color: white;
+    position: relative;
+    font-size: 18px;
+    left: 50px;
+    width:300px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+}
+#input2 {
+    background: rgba(0, 0, 0, 0.19);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    color: white;
+    margin-top: 20px;
+    position: relative;
+    font-size: 18px;
+    left: 50px;
+    width:300px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+}
+#checkbox {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 16px;
+    color: rgb(68, 18, 114);
+    margin-left: 50px;
+}
+#btn1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 16px;
+    border: none;
+    color: rgb(68, 18, 114);
+    background: rgba(0, 0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 60px;
+}
+#btn2 {
+    background: purple;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    color: white;
+    margin-top: 20px;
+    position: relative;
+    left: 50px;
+    width:300px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+}
+p {
+    color: white;
+    margin-left: 90px;
+}

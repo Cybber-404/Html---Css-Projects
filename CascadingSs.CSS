@@ -1,0 +1,222 @@
+body {
+    background: url(/images/266695.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.em1 {
+    color:lightblue;
+}
+.em2 {
+    color:lightpink;
+}
+div {
+    background: rgba(0, 0, 0, 0.27);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top:auto;
+    width:1270px;
+    height:500px;
+    margin: 0px;  
+}
+#div2 {
+    background: rgba(0, 0, 0, 0.518);
+    color: white;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    width: 450px;
+    height:400px;
+    position: absolute;
+    top:130px;
+    left: 680px;
+    border-radius: 30px;
+}
+#div3 {
+    background: rgba(0, 0, 0, 0.518);
+    color: white;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    width: 450px;
+    height:400px;
+    position: absolute;
+    top:130px;
+    left: 120px;
+    border-radius: 30px;
+}
+h2 {
+    margin-left: 50px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+p {
+    color:#95fcd6;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+#p1 {
+    font-size: larger;
+    color:rgb(171, 246, 233);
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+#p2 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: rgb(225, 255, 0);
+    position: absolute;
+    top:250px;
+    left: 20px;
+}
+#p3 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: rgb(31, 117, 215);
+    position: absolute;
+    top:250px;
+    left: 100px;
+}
+#p4 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: white;
+    position: absolute;
+    top:250px;
+    left: 145px;
+}
+#p5 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: rgb(243, 7, 7);
+    position: absolute;
+    top:250px;
+    left: 240px;
+}
+#p6 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+    position: absolute;
+    top:250px;
+    left: 315px;
+}
+#p7 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: white;
+    position: absolute;
+    top:250px;
+    left: 380px;
+}
+#img1 {
+    width:40px;
+    height:40px;
+    position: absolute;
+    top:15px;
+    left: 210px;
+}
+.buttons {
+    background: rgba(0, 0, 0, 0);
+    color: whitesmoke;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    border: none;
+    position: relative;
+    top: 0;
+    left: 400px;
+}
+.buttons:hover {
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.073);
+}
+#stray_btn {
+    background: #95fcd6;
+    width: 200px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 130px;
+}
+.select {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 40px;
+    text-align: center;
+}
+input {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    width: 180px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: center;
+}
+#img2 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    top:15px;
+    left: 1050px;
+}
+#img3 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    top:15px;
+    left: 1100px;
+}
+#img4 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    top:15px;
+    left: 1150px;
+}
+#img5 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    top:15px;
+    left: 1200px;
+}
+#img6 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    top:15px;
+    left: 1000px;
+}
+#img7 {
+    width:50px;
+    height:50px;
+    position: absolute;
+    top:200px;
+    left: 20px;
+}
+#img8 {
+    width:50px;
+    height:50px;
+    position: absolute;
+    top:200px;
+    left: 90px;
+}
+#img9 {
+    width:50px;
+    height:50px;
+    position: absolute;
+    top:200px;
+    left: 160px;
+}
+#img10 {
+    width:50px;
+    height:50px;
+    position: absolute;
+    top:200px;
+    left: 230px;
+}
+#img11 {
+    width:50px;
+    height:50px;
+    position: absolute;
+    top:200px;
+    left: 300px;
+}
+#img12 {
+    width:50px;
+    height:50px;
+    position: absolute;
+    top:200px;
+    left: 370px;
+}

@@ -1,0 +1,70 @@
+div {
+    height: 120px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: right;
+    margin-right: 20px;
+    
+}
+#div2 {
+    height:340px;
+    
+}
+.button {
+    color:rgb(19, 118, 118);
+    background:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    border-radius: 11px;
+    border:none;
+}
+.button2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border-radius: 11px;
+    background:white;
+    border-width:1px;
+    margin:3px;
+    color: rgb(19, 118, 118);
+}
+
+h4 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+}
+#pic1 {
+    float:left;
+    
+}
+#pic2 {
+    height:300px;
+    float:right;
+    margin-right:30px;
+    margin-top: 20px;
+}
+input {
+    width:370px;
+    height:30px;
+    
+} 
+#search_btn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:30px;
+    background:green; 
+    
+}
+pre{
+    float:left;
+}
+p {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+
+}
+#heading {
+    width:230px;
+    height:150px;
+    border-radius:50px;
+    
+}
